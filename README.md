@@ -4,7 +4,7 @@ Enthusiastic developer eager to contribute to team success through hard work, at
 excellent organizational skills. Clear understanding of data structures and OOP and training in Web
 development. Motivated to learn, grow and excel in software development.
 
-
+<span style="color:blue">some *blue* text</span>
 - [x] Javascript
 - [x] HTML5 & CSS
 - [x] JQuery
@@ -12,6 +12,7 @@ development. Motivated to learn, grow and excel in software development.
 - [ ] MongoDB
 - [ ] Vue.js
 - [ ] Node.js
+- [ ] Express.js
 
 
 ```
