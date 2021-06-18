@@ -7,7 +7,7 @@
 <img margin="0 5px" alt="Louis Flores | Discord" width="26px" src="assets/Discord-Logo-Color.svg" />
 </a>
 <br/>
-<p>Hi, I'm Louis Flores, an enthusiastic self-taught Frontend web developer from South Florida, USA.</p>
+<p>Hi, I'm Louis Flores, an enthusiastic self-taught Front-end Web developer from South Florida.</p>
 
 ####  < Skills & Tools />  :computer: 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
